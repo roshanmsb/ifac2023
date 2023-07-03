@@ -34,13 +34,13 @@
 }
 
 .header-background .img {
-  background-image: url("../img/ICLR-logo.png");
+  background-image: url("../img/welcome-ifac.svg");
   background-repeat: no-repeat;
-  background-size: 400px;
+  background-size: 150px;
   background-position: center bottom;
-  height: 12em;
-  margin-bottom: 0em;
-  margin-top: -2.7em;  
+  height: 18em;
+  margin-bottom: -1em;
+  margin-top: 0em;  
 }
 
 html[data-theme='dark'] {
@@ -74,13 +74,13 @@ html[data-theme='dark'] {
   }
 
 .header-background .img {
-  background-image: url("../img/ICLR-logo-dark.png");
+  background-image: url("../img/welcome-ifac.svg");
   background-repeat: no-repeat;
-  background-size: 400px;
+  background-size: 150px;
   background-position: center bottom;
-  height: 12em;
-  margin-bottom: 0em;
-  margin-top: -2.7em;  
+  height: 18em;
+  margin-bottom: -1em;
+  margin-top: 0em;  
   // filter: invert(89%);
 }
 

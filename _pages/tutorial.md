@@ -1,7 +1,7 @@
 ---
 layout: page
-title: call for blogposts
-permalink: /call
+title: Tutorial
+permalink: /tutorial
 description:
 nav: true
 nav_order: 2
