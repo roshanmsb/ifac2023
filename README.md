@@ -1,29 +1,3 @@
-# ICLR 2023 Blogposts Track
-
-This is the repository for the blogposts track. This website is based off of the [**al-folio**](https://github.com/alshedivat/al-folio) template.
-Some of their original documentation for using this template is included below, but you can find their full README in the original repo.
-
-### Links
-
-Call for blog posts: https://iclr-blogposts.github.io/2023/call
-
-About: https://iclr-blogposts.github.io/2023/about
-
-Submission guide: https://iclr-blogposts.github.io/2023/submitting
-
-### Track Chairs
-
-- Gauthier Gidel, Mila, UdeM
-- Charlie Gauthier, Mila, UdeM
-- David Dobre, Mila, UdeM
-- Claire Vernade, University of Tuebingen
-- Joan Bruna, NYU
-
-&nbsp;
-
----
-
-&nbsp;
 
 # al-folio
 
@@ -32,28 +6,30 @@ Please view the original README on the [al-folio github repo](https://github.com
 
 ## Table Of Contents
 
-  * [Getting started](#getting-started)
-    + [Installation](#installation)
+- [al-folio](#al-folio)
+  - [Table Of Contents](#table-of-contents)
+  - [Getting started](#getting-started)
+    - [Installation](#installation)
       - [Local setup using Docker (Recommended on Windows)](#local-setup-using-docker-recommended-on-windows)
       - [Local Setup (Standard)](#local-setup-standard)
       - [Deployment](#deployment)
       - [Upgrading from a previous version](#upgrading-from-a-previous-version)
-    + [FAQ](#faq)
-  * [Features](#features)
-    + [Publications](#publications)
-    + [Collections](#collections)
-    + [Layouts](#layouts)
+    - [FAQ](#faq)
+  - [Features](#features)
+    - [Publications](#publications)
+    - [Collections](#collections)
+    - [Layouts](#layouts)
       - [The iconic style of Distill](#the-iconic-style-of-distill)
-      - [Full support for math & code](#full-support-for-math--code)
+      - [Full support for math \& code](#full-support-for-math--code)
       - [Photos](#photos)
-    + [Other features](#other-features)
+    - [Other features](#other-features)
       - [GitHub repositories and user stats](#github-repositories-and-user-stats)
       - [Theming](#theming)
       - [Social media previews](#social-media-previews)
       - [Atom (RSS-like) Feed](#atom-rss-like-feed)
-  * [Contributing](#contributing)
-    + [Core Contributors](#core-contributors)
-  * [License](#license)
+  - [Contributing](#contributing)
+    - [Maintainers](#maintainers)
+  - [License](#license)
 
 ## Getting started
 
